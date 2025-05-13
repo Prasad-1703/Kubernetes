@@ -1,17 +1,9 @@
-Perfect — that's totally fine and actually quite common for smaller or more direct Kubernetes projects.
-
-Let me update the `README.md` to match your new structure where files are named like `mysql-deployment.yaml`, `wordpress-service.yaml`, etc., all in a **flat structure**.
-
----
-
-### 📄 Updated `README.md`
-
 ```markdown
-# 🐳 WordPress + MySQL on Kubernetes (Two-Tier Application)
+**# 🐳 WordPress + MySQL on Kubernetes (Two-Tier Application)**
 
 This project sets up a basic **two-tier application** using Kubernetes:
-- **WordPress** for the frontend
-- **MySQL** for the backend
+- ****WordPress**** for the frontend
+- ****MySQL**** for the backend
 
 All components are deployed inside a dedicated Kubernetes namespace.
 
