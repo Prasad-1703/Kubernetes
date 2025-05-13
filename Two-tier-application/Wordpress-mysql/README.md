@@ -21,7 +21,6 @@ two-tier-wordpress/
 ├── wordpress-service.yaml
 └── README.md
 
-````
 
 ## 🚀 Deployment Instructions
 
