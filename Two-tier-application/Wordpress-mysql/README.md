@@ -1,25 +1,10 @@
-```markdown
-🐳 WordPress + MySQL on Kubernetes (Two-Tier Application)
+**###🐳 WordPress + MySQL on Kubernetes (Two-Tier Application)**
 
 This project sets up a basic **two-tier application** using Kubernetes:
-- WordPress for the frontend
-- MySQL for the backend
+- **WordPress** for the frontend
+- **MySQL** for the backend
 
 All components are deployed inside a dedicated Kubernetes namespace.
-
----
-
-📁 Project Structure
-
-```
-
-two-tier-wordpress/
-├── namespace.yaml
-├── mysql-deployment.yaml
-├── mysql-service.yaml
-├── wordpress-deployment.yaml
-├── wordpress-service.yaml
-└── README.md
 
 
 ## 🚀 Deployment Instructions
