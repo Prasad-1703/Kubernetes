@@ -1,4 +1,4 @@
-**###🐳 WordPress + MySQL on Kubernetes (Two-Tier Application)**
+##  🐳 WordPress + MySQL on Kubernetes (Two-Tier Application)
 
 This project sets up a basic **two-tier application** using Kubernetes:
 - **WordPress** for the frontend
